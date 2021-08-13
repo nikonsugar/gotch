@@ -7,8 +7,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/sugarme/gotch"
-	ts "github.com/sugarme/gotch/tensor"
+	"github.com/nikonsugar/gotch"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 func gaussianKernel1D(ks int64, sigma float64, dtype gotch.DType, device gotch.Device) *ts.Tensor {

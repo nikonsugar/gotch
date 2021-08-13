@@ -1,7 +1,7 @@
 package aug
 
 import (
-	ts "github.com/sugarme/gotch/tensor"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 // RandomPosterize posterizes the image randomly with a given probability by reducing the

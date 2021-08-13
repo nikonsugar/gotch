@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/sugarme/gotch"
-	ts "github.com/sugarme/gotch/tensor"
-	"github.com/sugarme/gotch/vision"
+	"github.com/nikonsugar/gotch"
+	ts "github.com/nikonsugar/gotch/tensor"
+	"github.com/nikonsugar/gotch/vision"
 )
 
 type ResizeModule struct {

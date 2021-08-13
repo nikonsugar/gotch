@@ -8,8 +8,8 @@ package vision
 import (
 	"fmt"
 
-	"github.com/sugarme/gotch/nn"
-	ts "github.com/sugarme/gotch/tensor"
+	"github.com/nikonsugar/gotch/nn"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 func dnConv2d(p *nn.Path, cIn, cOut, ksize, padding, stride int64) *nn.Conv2D {

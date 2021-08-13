@@ -3,8 +3,8 @@ package tensor_test
 import (
 	"fmt"
 
-	"github.com/sugarme/gotch"
-	ts "github.com/sugarme/gotch/tensor"
+	"github.com/nikonsugar/gotch"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 func ExampleTensor_MustArange1() {

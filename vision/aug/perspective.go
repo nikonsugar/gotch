@@ -3,8 +3,8 @@ package aug
 import (
 	// "fmt"
 
-	"github.com/sugarme/gotch"
-	ts "github.com/sugarme/gotch/tensor"
+	"github.com/nikonsugar/gotch"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 // RandomPerspective performs a random perspective transformation of the given image with a given probability.

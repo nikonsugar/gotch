@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	ts "github.com/sugarme/gotch/tensor"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 type Conv1DConfig struct {

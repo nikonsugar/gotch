@@ -8,8 +8,8 @@ import (
 	"log"
 	"math"
 
-	"github.com/sugarme/gotch"
-	ts "github.com/sugarme/gotch/tensor"
+	"github.com/nikonsugar/gotch"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 // (height, width, channel) -> (channel, height, width)

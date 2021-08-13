@@ -3,7 +3,7 @@ package nn
 // Layers defined by closure
 
 import (
-	ts "github.com/sugarme/gotch/tensor"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 type Func struct {

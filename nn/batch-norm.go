@@ -5,7 +5,7 @@ package nn
 import (
 	"log"
 
-	ts "github.com/sugarme/gotch/tensor"
+	ts "github.com/nikonsugar/gotch/tensor"
 )
 
 // Batch-normalization config.

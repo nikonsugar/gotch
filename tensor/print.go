@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/sugarme/gotch"
+	"github.com/nikonsugar/gotch"
 )
 
 var fmtByte = []byte("%")

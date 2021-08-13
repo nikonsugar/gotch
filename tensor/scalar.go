@@ -4,7 +4,7 @@ import (
 	// "unsafe"
 	"log"
 
-	lib "github.com/sugarme/gotch/libtch"
+	lib "github.com/nikonsugar/gotch/libtch"
 )
 
 type Scalar struct {
