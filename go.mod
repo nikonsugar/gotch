@@ -1,4 +1,4 @@
-module github.com/sugarme/gotch
+module github.com/nikonsugar/gotch
 
 go 1.14
 
